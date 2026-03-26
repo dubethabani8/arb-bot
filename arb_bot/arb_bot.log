@@ -1,0 +1,108 @@
+2026-03-26 11:35:25  INFO      Running integration tests...
+2026-03-26 11:35:25  WARNING   Telegram credentials not configured — skipping Telegram alert.
+2026-03-26 11:35:25  WARNING   Email credentials not configured — skipping email alert.
+2026-03-26 12:47:13  INFO      Running integration tests...
+2026-03-26 12:47:13  WARNING   Telegram credentials not configured — skipping Telegram alert.
+2026-03-26 12:47:13  WARNING   Email credentials not configured — skipping email alert.
+2026-03-26 12:47:38  INFO      Running integration tests...
+2026-03-26 12:47:38  WARNING   Telegram credentials not configured — skipping Telegram alert.
+2026-03-26 12:47:38  WARNING   Email credentials not configured — skipping email alert.
+2026-03-26 12:48:27  INFO      Running integration tests...
+2026-03-26 12:48:29  INFO      Telegram alert sent successfully.
+2026-03-26 12:48:33  ERROR     Email alert failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-b9b20263997sm141670166b.14 - gsmtp')
+2026-03-26 12:51:17  INFO      Running integration tests...
+2026-03-26 12:51:19  INFO      Telegram alert sent successfully.
+2026-03-26 12:51:21  ERROR     Email alert failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-66ad67522fesm1321743a12.14 - gsmtp')
+2026-03-26 12:52:43  INFO      ============================================================
+2026-03-26 12:52:43  INFO        Retail Arbitrage Bot starting up
+2026-03-26 12:52:43  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-26 12:52:43  INFO        Scan interval: every 20 minutes
+2026-03-26 12:52:43  INFO      ============================================================
+2026-03-26 12:52:43  INFO      Running initial scan...
+2026-03-26 12:52:43  INFO      
+============================================================
+2026-03-26 12:52:43  INFO      Scan #1 started at 2026-03-26 12:52:43
+2026-03-26 12:52:43  INFO      Checking 4 products...
+2026-03-26 12:52:43  INFO      ============================================================
+2026-03-26 12:52:43  INFO        Checking: Amazon Echo Dot 4th Gen (B08N5WRWNW)
+2026-03-26 12:52:48  WARNING   No Amazon price for B08N5WRWNW. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 12:52:48  INFO        Checking: Amazon Fire TV Stick (B07FZ8S74R)
+2026-03-26 12:52:52  WARNING   No Amazon price for B07FZ8S74R. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 12:52:52  INFO        Checking: LEGO Classic Creative Bricks (B07WMNPGSK)
+2026-03-26 12:52:54  WARNING   No Amazon price for B07WMNPGSK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 12:52:54  INFO        Checking: Atomic Habits - James Clear (0735224293)
+2026-03-26 12:53:04  INFO          Amazon price: $11.54
+2026-03-26 12:53:04  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-26 12:53:10  ERROR     Walmart/Bluecart error for 'Atomic Habits - James Clear': 'list' object has no attribute 'get'
+2026-03-26 12:53:12  ERROR     Liquidation.com error for 'Atomic Habits - James Clear': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Atomic+Habits+-+James+Clear&sort=ending_soon
+2026-03-26 12:53:12  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-26 12:53:12  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-26 12:53:12  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-26 13:05:19  INFO      
+Bot stopped by user.
+2026-03-26 13:05:23  INFO      ============================================================
+2026-03-26 13:05:23  INFO        Retail Arbitrage Bot starting up
+2026-03-26 13:05:23  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-26 13:05:23  INFO        Scan interval: every 20 minutes
+2026-03-26 13:05:23  INFO      ============================================================
+2026-03-26 13:05:23  INFO      Running initial scan...
+2026-03-26 13:05:23  INFO      
+============================================================
+2026-03-26 13:05:23  INFO      Scan #1 started at 2026-03-26 13:05:23
+2026-03-26 13:05:23  INFO      Checking 4 products...
+2026-03-26 13:05:23  INFO      ============================================================
+2026-03-26 13:05:23  INFO        Checking: Amazon Echo Dot 4th Gen (B08N5WRWNW)
+2026-03-26 13:05:26  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:05:26  WARNING   No Amazon price for B08N5WRWNW. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:05:26  INFO        Checking: Amazon Fire TV Stick (B07FZ8S74R)
+2026-03-26 13:05:31  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:05:31  WARNING   No Amazon price for B07FZ8S74R. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:05:31  INFO        Checking: LEGO Classic Creative Bricks (B07WMNPGSK)
+2026-03-26 13:05:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:05:36  WARNING   No Amazon price for B07WMNPGSK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:05:36  INFO        Checking: Atomic Habits - James Clear (0735224293)
+2026-03-26 13:05:44  INFO          Amazon price: $11.54
+2026-03-26 13:05:44  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-26 13:05:49  ERROR     Walmart/Bluecart error for 'Atomic Habits - James Clear': 'list' object has no attribute 'get'
+2026-03-26 13:05:51  ERROR     Liquidation.com error for 'Atomic Habits - James Clear': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Atomic+Habits+-+James+Clear&sort=ending_soon
+2026-03-26 13:05:51  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-26 13:05:51  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-26 13:05:51  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-26 13:07:15  INFO      
+Bot stopped by user.
+2026-03-26 13:11:38  INFO      ============================================================
+2026-03-26 13:11:38  INFO        Retail Arbitrage Bot starting up
+2026-03-26 13:11:38  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-26 13:11:38  INFO        Scan interval: every 20 minutes
+2026-03-26 13:11:38  INFO      ============================================================
+2026-03-26 13:11:38  INFO      Running initial scan...
+2026-03-26 13:11:38  INFO      
+============================================================
+2026-03-26 13:11:38  INFO      Scan #1 started at 2026-03-26 13:11:38
+2026-03-26 13:11:38  INFO      Checking 4 products...
+2026-03-26 13:11:38  INFO      ============================================================
+2026-03-26 13:11:38  INFO        Checking: Amazon Echo Dot 4th Gen (B08N5WRWNW)
+2026-03-26 13:11:40  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:11:40  WARNING   No Amazon price for B08N5WRWNW. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:11:40  INFO        Checking: Amazon Fire TV Stick (B07FZ8S74R)
+2026-03-26 13:11:46  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:11:46  WARNING   No Amazon price for B07FZ8S74R. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:11:46  INFO        Checking: LEGO Classic Creative Bricks (B07WMNPGSK)
+2026-03-26 13:11:48  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-26 13:11:48  WARNING   No Amazon price for B07WMNPGSK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-26 13:11:48  INFO        Checking: Atomic Habits - James Clear (0735224293)
+2026-03-26 13:11:57  INFO          Amazon price: $10.01
+2026-03-26 13:11:57  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-26 13:12:07  ERROR     Walmart/Bluecart error for 'Atomic Habits - James Clear': 'list' object has no attribute 'get'
+2026-03-26 13:12:08  ERROR     Liquidation.com error for 'Atomic Habits - James Clear': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Atomic+Habits+-+James+Clear&sort=ending_soon
+2026-03-26 13:12:08  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-26 13:12:08  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-26 13:12:08  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-26 13:21:16  INFO      
+Bot stopped by user.
