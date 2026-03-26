@@ -1,0 +1,19 @@
+[Unit]
+Description=Retail Arbitrage Bot
+After=network.target
+StartLimitIntervalSec=60
+StartLimitBurst=3
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/arb_bot
+EnvironmentFile=/home/ubuntu/arb_bot/.env
+ExecStart=/home/ubuntu/arb_bot/venv/bin/python main.py
+Restart=always
+RestartSec=15
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
