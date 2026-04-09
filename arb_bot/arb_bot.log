@@ -106,3 +106,1132 @@ Scan complete. 0 deal(s) found this cycle.
 2026-03-26 13:12:08  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
 2026-03-26 13:21:16  INFO      
 Bot stopped by user.
+2026-03-27 03:47:08  INFO      Running integration tests...
+2026-03-27 03:47:09  INFO      Telegram alert sent successfully.
+2026-03-27 03:47:13  ERROR     Email alert failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-66ad60464c1sm1892220a12.12 - gsmtp')
+2026-03-27 03:47:16  INFO      ============================================================
+2026-03-27 03:47:16  INFO        Retail Arbitrage Bot starting up
+2026-03-27 03:47:16  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 03:47:16  INFO        Scan interval: every 20 minutes
+2026-03-27 03:47:16  INFO      ============================================================
+2026-03-27 03:47:16  INFO      Running initial scan...
+2026-03-27 03:47:16  INFO      
+============================================================
+2026-03-27 03:47:16  INFO      Scan #1 started at 2026-03-27 03:47:16
+2026-03-27 03:47:16  INFO      Checking 4 products...
+2026-03-27 03:47:16  INFO      ============================================================
+2026-03-27 03:47:16  INFO        Checking: Amazon Echo Dot 4th Gen (B08N5WRWNW)
+2026-03-27 03:47:19  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 03:47:19  WARNING   No Amazon price for B08N5WRWNW. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 03:47:19  INFO        Checking: Amazon Fire TV Stick (B07FZ8S74R)
+2026-03-27 03:47:24  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 03:47:24  WARNING   No Amazon price for B07FZ8S74R. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 03:47:24  INFO        Checking: LEGO Classic Creative Bricks (B07WMNPGSK)
+2026-03-27 03:47:27  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 03:47:27  WARNING   No Amazon price for B07WMNPGSK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 03:47:27  INFO        Checking: Atomic Habits - James Clear (0735224293)
+2026-03-27 03:47:35  INFO          Amazon price: $11.54
+2026-03-27 03:47:35  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 03:47:46  ERROR     Walmart/Bluecart error for 'Atomic Habits - James Clear': HTTPSConnectionPool(host='api.bluecartapi.com', port=443): Read timed out. (read timeout=10)
+2026-03-27 03:47:49  ERROR     Liquidation.com error for 'Atomic Habits - James Clear': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Atomic+Habits+-+James+Clear&sort=ending_soon
+2026-03-27 03:47:49  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-27 03:47:49  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 03:47:49  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-27 04:07:19  INFO      
+============================================================
+2026-03-27 04:07:19  INFO      Scan #2 started at 2026-03-27 04:07:19
+2026-03-27 04:07:19  INFO      Checking 4 products...
+2026-03-27 04:07:19  INFO      ============================================================
+2026-03-27 04:07:19  INFO        Checking: Amazon Echo Dot 4th Gen (B08N5WRWNW)
+2026-03-27 04:07:22  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:07:22  WARNING   No Amazon price for B08N5WRWNW. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:07:22  INFO        Checking: Amazon Fire TV Stick (B07FZ8S74R)
+2026-03-27 04:07:28  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:07:28  WARNING   No Amazon price for B07FZ8S74R. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:07:28  INFO        Checking: LEGO Classic Creative Bricks (B07WMNPGSK)
+2026-03-27 04:07:31  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:07:31  WARNING   No Amazon price for B07WMNPGSK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:07:31  INFO        Checking: Atomic Habits - James Clear (0735224293)
+2026-03-27 04:07:38  INFO          Amazon price: $11.54
+2026-03-27 04:07:38  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:07:43  ERROR     Walmart/Bluecart error for 'Atomic Habits - James Clear': 'list' object has no attribute 'get'
+2026-03-27 04:07:45  ERROR     Liquidation.com error for 'Atomic Habits - James Clear': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Atomic+Habits+-+James+Clear&sort=ending_soon
+2026-03-27 04:07:45  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-27 04:07:45  INFO      Lifetime totals — Scans: 2 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 04:27:44  INFO      
+Bot stopped by user.
+2026-03-27 04:27:45  INFO      ============================================================
+2026-03-27 04:27:45  INFO        Retail Arbitrage Bot starting up
+2026-03-27 04:27:45  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 04:27:45  INFO        Scan interval: every 20 minutes
+2026-03-27 04:27:45  INFO      ============================================================
+2026-03-27 04:27:45  INFO      Running initial scan...
+2026-03-27 04:27:45  INFO      
+============================================================
+2026-03-27 04:27:45  INFO      Scan #1 started at 2026-03-27 04:27:45
+2026-03-27 04:27:45  INFO      Checking 24 products...
+2026-03-27 04:27:45  INFO      ============================================================
+2026-03-27 04:27:45  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 04:27:48  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:27:48  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:27:48  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-27 04:27:57  INFO          Amazon price: $199.00
+2026-03-27 04:27:57  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:28:04  ERROR     Walmart/Bluecart error for 'Anker PowerCore Slim 10000 Portable Charger': 'list' object has no attribute 'get'
+2026-03-27 04:28:06  ERROR     Liquidation.com error for 'Anker PowerCore Slim 10000 Portable Charger': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Anker+PowerCore+Slim+10000+Portable+Charger&sort=ending_soon
+2026-03-27 04:28:06  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-27 04:28:12  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:28:12  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:28:12  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-27 04:28:22  INFO          Amazon price: $329.00
+2026-03-27 04:28:22  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:28:29  ERROR     Walmart/Bluecart error for 'Govee LED Strip Lights 100ft': 'list' object has no attribute 'get'
+2026-03-27 04:28:30  ERROR     Liquidation.com error for 'Govee LED Strip Lights 100ft': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Govee+LED+Strip+Lights+100ft&sort=ending_soon
+2026-03-27 04:28:30  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-27 04:28:38  INFO          Amazon price: $258.91
+2026-03-27 04:28:38  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:28:50  ERROR     Walmart/Bluecart error for 'Logitech MX Master 3 Advanced Wireless Mouse': HTTPSConnectionPool(host='api.bluecartapi.com', port=443): Read timed out. (read timeout=10)
+2026-03-27 04:28:51  ERROR     Liquidation.com error for 'Logitech MX Master 3 Advanced Wireless Mouse': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Logitech+MX+Master+3+Advanced+Wireless+Mouse&sort=ending_soon
+2026-03-27 04:28:51  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-27 04:29:00  INFO          Amazon price: $317.99
+2026-03-27 04:29:00  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:29:05  ERROR     Walmart/Bluecart error for 'POWRUI Surge Protector 8 Outlets': 'list' object has no attribute 'get'
+2026-03-27 04:29:06  ERROR     Liquidation.com error for 'POWRUI Surge Protector 8 Outlets': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=POWRUI+Surge+Protector+8+Outlets&sort=ending_soon
+2026-03-27 04:29:06  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-27 04:29:11  INFO          Amazon price: $82.14
+2026-03-27 04:29:11  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:29:17  ERROR     Walmart/Bluecart error for 'Soundcore by Anker Life P2 Mini Earbuds': 'list' object has no attribute 'get'
+2026-03-27 04:29:18  ERROR     Liquidation.com error for 'Soundcore by Anker Life P2 Mini Earbuds': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Soundcore+by+Anker+Life+P2+Mini+Earbuds&sort=ending_soon
+2026-03-27 04:29:18  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-27 04:29:23  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:23  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:23  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-27 04:29:31  INFO          Amazon price: $9.50
+2026-03-27 04:29:31  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:29:38  ERROR     Walmart/Bluecart error for 'Lodge 10.25 Inch Cast Iron Skillet': 'list' object has no attribute 'get'
+2026-03-27 04:29:39  ERROR     Liquidation.com error for 'Lodge 10.25 Inch Cast Iron Skillet': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Lodge+10.25+Inch+Cast+Iron+Skillet&sort=ending_soon
+2026-03-27 04:29:39  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-03-27 04:29:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:41  WARNING   No Amazon price for B089WXGTC5. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:41  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-03-27 04:29:43  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:43  WARNING   No Amazon price for B07GJBBGHG. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:43  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-03-27 04:29:46  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:46  WARNING   No Amazon price for B08CYKPB7W. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:46  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-03-27 04:29:47  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:47  WARNING   No Amazon price for B07WQ25PXR. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:47  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-03-27 04:29:56  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:56  WARNING   No Amazon price for B00TTD9BRC. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:56  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-03-27 04:29:58  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:29:58  WARNING   No Amazon price for B07FLGR2TH. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:29:58  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-03-27 04:30:01  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:01  WARNING   No Amazon price for B09NWYPTLP. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:01  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-03-27 04:30:03  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:03  WARNING   No Amazon price for B005F0QKHE. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:03  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-03-27 04:30:06  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:06  WARNING   No Amazon price for B08K2H2B7G. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:06  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-03-27 04:30:10  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:10  WARNING   No Amazon price for B07K5299KZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:10  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-03-27 04:30:13  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:13  WARNING   No Amazon price for B078H9KDX3. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:13  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-03-27 04:30:15  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:15  WARNING   No Amazon price for B07C5F9KHK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:15  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-03-27 04:30:18  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:18  WARNING   No Amazon price for B07G5F5CHX. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:18  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-03-27 04:30:22  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:22  WARNING   No Amazon price for B07MJG2MBZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:22  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-03-27 04:30:24  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:30:24  WARNING   No Amazon price for B08DK3GG59. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:30:24  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-27 04:30:24  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 04:30:24  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-27 04:46:02  INFO      
+Bot stopped by user.
+2026-03-27 04:46:03  INFO      ============================================================
+2026-03-27 04:46:03  INFO        Retail Arbitrage Bot starting up
+2026-03-27 04:46:03  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 04:46:03  INFO        Scan interval: every 20 minutes
+2026-03-27 04:46:03  INFO      ============================================================
+2026-03-27 04:46:03  INFO      Running initial scan...
+2026-03-27 04:46:03  INFO      
+============================================================
+2026-03-27 04:46:03  INFO      Scan #1 started at 2026-03-27 04:46:03
+2026-03-27 04:46:03  INFO      Checking 24 products...
+2026-03-27 04:46:03  INFO      ============================================================
+2026-03-27 04:46:03  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 04:46:04  INFO      
+Bot stopped by user.
+2026-03-27 04:47:34  INFO      ============================================================
+2026-03-27 04:47:34  INFO        Retail Arbitrage Bot starting up
+2026-03-27 04:47:34  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 04:47:34  INFO        Scan interval: every 20 minutes
+2026-03-27 04:47:34  INFO      ============================================================
+2026-03-27 04:47:34  INFO      Running initial scan...
+2026-03-27 04:47:34  INFO      
+============================================================
+2026-03-27 04:47:34  INFO      Scan #1 started at 2026-03-27 04:47:34
+2026-03-27 04:47:34  INFO      Checking 24 products...
+2026-03-27 04:47:34  INFO      ============================================================
+2026-03-27 04:47:34  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 04:47:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:47:36  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:47:36  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-27 04:47:43  INFO          Amazon price: $199.00
+2026-03-27 04:47:43  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:47:48  ERROR     Walmart/Bluecart error for 'Anker PowerCore Slim 10000 Portable Charger': 'list' object has no attribute 'get'
+2026-03-27 04:47:49  ERROR     Liquidation.com error for 'Anker PowerCore Slim 10000 Portable Charger': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Anker+PowerCore+Slim+10000+Portable+Charger&sort=ending_soon
+2026-03-27 04:47:49  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-27 04:47:54  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:47:54  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:47:54  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-27 04:48:02  INFO          Amazon price: $329.00
+2026-03-27 04:48:02  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:48:07  ERROR     Walmart/Bluecart error for 'Govee LED Strip Lights 100ft': 'list' object has no attribute 'get'
+2026-03-27 04:48:07  ERROR     Liquidation.com error for 'Govee LED Strip Lights 100ft': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Govee+LED+Strip+Lights+100ft&sort=ending_soon
+2026-03-27 04:48:07  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-27 04:48:16  INFO          Amazon price: $258.88
+2026-03-27 04:48:16  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:48:25  ERROR     Walmart/Bluecart error for 'Logitech MX Master 3 Advanced Wireless Mouse': 'list' object has no attribute 'get'
+2026-03-27 04:48:26  ERROR     Liquidation.com error for 'Logitech MX Master 3 Advanced Wireless Mouse': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Logitech+MX+Master+3+Advanced+Wireless+Mouse&sort=ending_soon
+2026-03-27 04:48:26  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-27 04:48:33  INFO          Amazon price: $317.99
+2026-03-27 04:48:33  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:48:38  ERROR     Walmart/Bluecart error for 'POWRUI Surge Protector 8 Outlets': 'list' object has no attribute 'get'
+2026-03-27 04:48:38  ERROR     Liquidation.com error for 'POWRUI Surge Protector 8 Outlets': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=POWRUI+Surge+Protector+8+Outlets&sort=ending_soon
+2026-03-27 04:48:38  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-27 04:48:44  INFO          Amazon price: $82.14
+2026-03-27 04:48:44  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:48:50  ERROR     Walmart/Bluecart error for 'Soundcore by Anker Life P2 Mini Earbuds': 'list' object has no attribute 'get'
+2026-03-27 04:48:50  ERROR     Liquidation.com error for 'Soundcore by Anker Life P2 Mini Earbuds': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Soundcore+by+Anker+Life+P2+Mini+Earbuds&sort=ending_soon
+2026-03-27 04:48:50  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-27 04:48:52  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 04:48:52  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 04:48:52  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-27 04:48:58  INFO          Amazon price: $9.50
+2026-03-27 04:48:58  WARNING   No eBay App ID set — skipping eBay lookup.
+2026-03-27 04:49:06  INFO      
+Bot stopped by user.
+2026-03-27 05:05:33  INFO      ============================================================
+2026-03-27 05:05:33  INFO        Retail Arbitrage Bot starting up
+2026-03-27 05:05:33  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 05:05:33  INFO        Scan interval: every 20 minutes
+2026-03-27 05:05:33  INFO      ============================================================
+2026-03-27 05:05:33  INFO      Running initial scan...
+2026-03-27 05:05:33  INFO      
+============================================================
+2026-03-27 05:05:33  INFO      Scan #1 started at 2026-03-27 05:05:33
+2026-03-27 05:05:33  INFO      Checking 24 products...
+2026-03-27 05:05:33  INFO      ============================================================
+2026-03-27 05:05:33  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 05:05:38  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:05:38  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:05:38  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-27 05:05:46  INFO          Amazon price: $199.00
+2026-03-27 05:05:47  ERROR     eBay error for 'Anker PowerCore Slim 10000 Portable Charger': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=Anker+PowerCore+Slim+10000+Portable+Charger&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:05:52  ERROR     Walmart/Bluecart error for 'Anker PowerCore Slim 10000 Portable Charger': 'list' object has no attribute 'get'
+2026-03-27 05:05:53  ERROR     Liquidation.com error for 'Anker PowerCore Slim 10000 Portable Charger': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Anker+PowerCore+Slim+10000+Portable+Charger&sort=ending_soon
+2026-03-27 05:05:53  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-27 05:05:57  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:05:57  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:05:57  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-27 05:06:04  INFO          Amazon price: $329.00
+2026-03-27 05:06:05  ERROR     eBay error for 'Govee LED Strip Lights 100ft': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=Govee+LED+Strip+Lights+100ft&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:06:15  ERROR     Walmart/Bluecart error for 'Govee LED Strip Lights 100ft': 'list' object has no attribute 'get'
+2026-03-27 05:06:15  ERROR     Liquidation.com error for 'Govee LED Strip Lights 100ft': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Govee+LED+Strip+Lights+100ft&sort=ending_soon
+2026-03-27 05:06:15  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-27 05:06:23  INFO          Amazon price: $258.88
+2026-03-27 05:06:24  ERROR     eBay error for 'Logitech MX Master 3 Advanced Wireless Mouse': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=Logitech+MX+Master+3+Advanced+Wireless+Mouse&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:06:31  ERROR     Walmart/Bluecart error for 'Logitech MX Master 3 Advanced Wireless Mouse': 'list' object has no attribute 'get'
+2026-03-27 05:06:31  ERROR     Liquidation.com error for 'Logitech MX Master 3 Advanced Wireless Mouse': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Logitech+MX+Master+3+Advanced+Wireless+Mouse&sort=ending_soon
+2026-03-27 05:06:31  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-27 05:06:38  INFO          Amazon price: $317.99
+2026-03-27 05:06:39  ERROR     eBay error for 'POWRUI Surge Protector 8 Outlets': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=POWRUI+Surge+Protector+8+Outlets&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:06:43  ERROR     Walmart/Bluecart error for 'POWRUI Surge Protector 8 Outlets': 'list' object has no attribute 'get'
+2026-03-27 05:06:44  ERROR     Liquidation.com error for 'POWRUI Surge Protector 8 Outlets': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=POWRUI+Surge+Protector+8+Outlets&sort=ending_soon
+2026-03-27 05:06:44  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-27 05:06:50  INFO          Amazon price: $82.14
+2026-03-27 05:06:51  ERROR     eBay error for 'Soundcore by Anker Life P2 Mini Earbuds': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=Soundcore+by+Anker+Life+P2+Mini+Earbuds&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:06:57  ERROR     Walmart/Bluecart error for 'Soundcore by Anker Life P2 Mini Earbuds': 'list' object has no attribute 'get'
+2026-03-27 05:06:57  ERROR     Liquidation.com error for 'Soundcore by Anker Life P2 Mini Earbuds': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Soundcore+by+Anker+Life+P2+Mini+Earbuds&sort=ending_soon
+2026-03-27 05:06:57  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-27 05:06:59  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:06:59  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:06:59  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-27 05:07:08  INFO          Amazon price: $9.50
+2026-03-27 05:07:09  ERROR     eBay error for 'Lodge 10.25 Inch Cast Iron Skillet': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-SBX-4f982e4b2-f25bbd2e&RESPONSE-DATA-FORMAT=JSON&keywords=Lodge+10.25+Inch+Cast+Iron+Skillet&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:07:14  ERROR     Walmart/Bluecart error for 'Lodge 10.25 Inch Cast Iron Skillet': 'list' object has no attribute 'get'
+2026-03-27 05:07:15  ERROR     Liquidation.com error for 'Lodge 10.25 Inch Cast Iron Skillet': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Lodge+10.25+Inch+Cast+Iron+Skillet&sort=ending_soon
+2026-03-27 05:07:15  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-03-27 05:07:16  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:16  WARNING   No Amazon price for B089WXGTC5. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:16  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-03-27 05:07:18  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:18  WARNING   No Amazon price for B07GJBBGHG. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:18  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-03-27 05:07:19  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:19  WARNING   No Amazon price for B08CYKPB7W. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:19  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-03-27 05:07:22  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:22  WARNING   No Amazon price for B07WQ25PXR. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:22  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-03-27 05:07:30  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:30  WARNING   No Amazon price for B00TTD9BRC. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:30  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-03-27 05:07:31  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:31  WARNING   No Amazon price for B07FLGR2TH. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:31  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-03-27 05:07:33  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:33  WARNING   No Amazon price for B09NWYPTLP. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:33  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-03-27 05:07:34  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:34  WARNING   No Amazon price for B005F0QKHE. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:34  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-03-27 05:07:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:36  WARNING   No Amazon price for B08K2H2B7G. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:36  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-03-27 05:07:37  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:37  WARNING   No Amazon price for B07K5299KZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:37  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-03-27 05:07:39  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:39  WARNING   No Amazon price for B078H9KDX3. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:39  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-03-27 05:07:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:41  WARNING   No Amazon price for B07C5F9KHK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:41  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-03-27 05:07:43  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:43  WARNING   No Amazon price for B07G5F5CHX. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:43  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-03-27 05:07:45  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:45  WARNING   No Amazon price for B07MJG2MBZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:45  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-03-27 05:07:49  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:07:49  WARNING   No Amazon price for B08DK3GG59. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:07:49  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-27 05:07:49  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 05:07:49  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-27 05:08:40  INFO      
+Bot stopped by user.
+2026-03-27 05:08:43  INFO      ============================================================
+2026-03-27 05:08:43  INFO        Retail Arbitrage Bot starting up
+2026-03-27 05:08:43  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 05:08:43  INFO        Scan interval: every 20 minutes
+2026-03-27 05:08:43  INFO      ============================================================
+2026-03-27 05:08:43  INFO      Running initial scan...
+2026-03-27 05:08:43  INFO      
+============================================================
+2026-03-27 05:08:43  INFO      Scan #1 started at 2026-03-27 05:08:43
+2026-03-27 05:08:43  INFO      Checking 24 products...
+2026-03-27 05:08:43  INFO      ============================================================
+2026-03-27 05:08:43  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 05:08:45  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:08:45  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:08:45  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-27 05:08:53  INFO          Amazon price: $199.00
+2026-03-27 05:08:54  ERROR     eBay error for 'Anker PowerCore Slim 10000 Portable Charger': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=Anker+PowerCore+Slim+10000+Portable+Charger&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:09:00  ERROR     Walmart/Bluecart error for 'Anker PowerCore Slim 10000 Portable Charger': 'list' object has no attribute 'get'
+2026-03-27 05:09:01  ERROR     Liquidation.com error for 'Anker PowerCore Slim 10000 Portable Charger': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Anker+PowerCore+Slim+10000+Portable+Charger&sort=ending_soon
+2026-03-27 05:09:01  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-27 05:09:05  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:09:05  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:09:05  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-27 05:09:11  INFO          Amazon price: $329.00
+2026-03-27 05:09:12  ERROR     eBay error for 'Govee LED Strip Lights 100ft': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=Govee+LED+Strip+Lights+100ft&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:09:19  ERROR     Walmart/Bluecart error for 'Govee LED Strip Lights 100ft': 'list' object has no attribute 'get'
+2026-03-27 05:09:19  ERROR     Liquidation.com error for 'Govee LED Strip Lights 100ft': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Govee+LED+Strip+Lights+100ft&sort=ending_soon
+2026-03-27 05:09:19  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-27 05:09:26  INFO          Amazon price: $258.88
+2026-03-27 05:09:27  ERROR     eBay error for 'Logitech MX Master 3 Advanced Wireless Mouse': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=Logitech+MX+Master+3+Advanced+Wireless+Mouse&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:09:31  ERROR     Walmart/Bluecart error for 'Logitech MX Master 3 Advanced Wireless Mouse': 'list' object has no attribute 'get'
+2026-03-27 05:09:31  ERROR     Liquidation.com error for 'Logitech MX Master 3 Advanced Wireless Mouse': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Logitech+MX+Master+3+Advanced+Wireless+Mouse&sort=ending_soon
+2026-03-27 05:09:31  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-27 05:09:38  INFO          Amazon price: $317.99
+2026-03-27 05:09:39  ERROR     eBay error for 'POWRUI Surge Protector 8 Outlets': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=POWRUI+Surge+Protector+8+Outlets&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:09:44  ERROR     Walmart/Bluecart error for 'POWRUI Surge Protector 8 Outlets': 'list' object has no attribute 'get'
+2026-03-27 05:09:44  ERROR     Liquidation.com error for 'POWRUI Surge Protector 8 Outlets': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=POWRUI+Surge+Protector+8+Outlets&sort=ending_soon
+2026-03-27 05:09:44  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-27 05:09:49  INFO          Amazon price: $82.14
+2026-03-27 05:09:50  ERROR     eBay error for 'Soundcore by Anker Life P2 Mini Earbuds': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=Soundcore+by+Anker+Life+P2+Mini+Earbuds&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:09:55  ERROR     Walmart/Bluecart error for 'Soundcore by Anker Life P2 Mini Earbuds': 'list' object has no attribute 'get'
+2026-03-27 05:09:55  ERROR     Liquidation.com error for 'Soundcore by Anker Life P2 Mini Earbuds': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Soundcore+by+Anker+Life+P2+Mini+Earbuds&sort=ending_soon
+2026-03-27 05:09:55  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-27 05:09:57  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:09:57  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:09:57  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-27 05:10:06  INFO          Amazon price: $9.50
+2026-03-27 05:10:07  ERROR     eBay error for 'Lodge 10.25 Inch Cast Iron Skillet': 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=ThabaniD-arbbot-PRD-ff61be8bd-64b95cde&RESPONSE-DATA-FORMAT=JSON&keywords=Lodge+10.25+Inch+Cast+Iron+Skillet&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&itemFilter%281%29.name=MinPrice&itemFilter%281%29.value=1.0&sortOrder=EndTimeSoonest&paginationInput.entriesPerPage=10
+2026-03-27 05:10:14  ERROR     Walmart/Bluecart error for 'Lodge 10.25 Inch Cast Iron Skillet': 'list' object has no attribute 'get'
+2026-03-27 05:10:15  ERROR     Liquidation.com error for 'Lodge 10.25 Inch Cast Iron Skillet': 403 Client Error: Forbidden for url: https://www.liquidation.com/items/search?q=Lodge+10.25+Inch+Cast+Iron+Skillet&sort=ending_soon
+2026-03-27 05:10:15  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-03-27 05:10:19  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:19  WARNING   No Amazon price for B089WXGTC5. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:19  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-03-27 05:10:20  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:20  WARNING   No Amazon price for B07GJBBGHG. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:20  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-03-27 05:10:22  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:22  WARNING   No Amazon price for B08CYKPB7W. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:22  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-03-27 05:10:23  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:23  WARNING   No Amazon price for B07WQ25PXR. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:23  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-03-27 05:10:30  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:30  WARNING   No Amazon price for B00TTD9BRC. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:30  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-03-27 05:10:32  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:32  WARNING   No Amazon price for B07FLGR2TH. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:32  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-03-27 05:10:33  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:33  WARNING   No Amazon price for B09NWYPTLP. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:33  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-03-27 05:10:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:36  WARNING   No Amazon price for B005F0QKHE. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:36  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-03-27 05:10:38  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:38  WARNING   No Amazon price for B08K2H2B7G. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:38  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-03-27 05:10:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:41  WARNING   No Amazon price for B07K5299KZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:41  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-03-27 05:10:44  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:44  WARNING   No Amazon price for B078H9KDX3. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:44  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-03-27 05:10:46  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:46  WARNING   No Amazon price for B07C5F9KHK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:46  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-03-27 05:10:49  ERROR     RainforestAPI HTTP error for B07G5F5CHX: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07G5F5CHX&amazon_domain=amazon.com
+2026-03-27 05:10:49  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:49  WARNING   No Amazon price for B07G5F5CHX. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:49  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-03-27 05:10:51  ERROR     RainforestAPI HTTP error for B07MJG2MBZ: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07MJG2MBZ&amazon_domain=amazon.com
+2026-03-27 05:10:51  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:51  WARNING   No Amazon price for B07MJG2MBZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:51  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-03-27 05:10:52  ERROR     RainforestAPI HTTP error for B08DK3GG59: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08DK3GG59&amazon_domain=amazon.com
+2026-03-27 05:10:52  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:10:52  WARNING   No Amazon price for B08DK3GG59. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:10:52  INFO      
+Scan complete. 0 deal(s) found this cycle.
+2026-03-27 05:10:52  INFO      Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 05:10:52  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-27 05:24:26  INFO      
+Bot stopped by user.
+2026-03-27 05:24:28  INFO      ============================================================
+2026-03-27 05:24:28  INFO        Retail Arbitrage Bot starting up
+2026-03-27 05:24:28  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-27 05:24:28  INFO        Scan interval: every 20 minutes
+2026-03-27 05:24:28  INFO      ============================================================
+2026-03-27 05:24:28  INFO      Running initial scan...
+2026-03-27 05:24:28  INFO      
+============================================================
+2026-03-27 05:24:28  INFO      Scan #1 started at 2026-03-27 05:24:28
+2026-03-27 05:24:28  INFO      Checking 24 products...
+2026-03-27 05:24:28  INFO      ============================================================
+2026-03-27 05:24:28  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-27 05:24:29  ERROR     RainforestAPI HTTP error for B09WB6YVRD: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09WB6YVRD&amazon_domain=amazon.com
+2026-03-27 05:24:29  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:29  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:29  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-27 05:24:30  ERROR     RainforestAPI HTTP error for B08C4KWM9T: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08C4KWM9T&amazon_domain=amazon.com
+2026-03-27 05:24:30  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:30  WARNING   No Amazon price for B08C4KWM9T. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:30  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-27 05:24:31  ERROR     RainforestAPI HTTP error for B07PXGQC1Q: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07PXGQC1Q&amazon_domain=amazon.com
+2026-03-27 05:24:31  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:31  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:31  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-27 05:24:32  ERROR     RainforestAPI HTTP error for B09G9FPHY6: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09G9FPHY6&amazon_domain=amazon.com
+2026-03-27 05:24:32  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:32  WARNING   No Amazon price for B09G9FPHY6. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:32  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-27 05:24:33  ERROR     RainforestAPI HTTP error for B08BHXG144: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08BHXG144&amazon_domain=amazon.com
+2026-03-27 05:24:33  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:33  WARNING   No Amazon price for B08BHXG144. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:33  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-27 05:24:34  ERROR     RainforestAPI HTTP error for B07VGRJDFY: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07VGRJDFY&amazon_domain=amazon.com
+2026-03-27 05:24:34  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:34  WARNING   No Amazon price for B07VGRJDFY. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:34  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-27 05:24:35  ERROR     RainforestAPI HTTP error for B08KTZ8249: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08KTZ8249&amazon_domain=amazon.com
+2026-03-27 05:24:35  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:35  WARNING   No Amazon price for B08KTZ8249. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:35  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-27 05:24:36  ERROR     RainforestAPI HTTP error for B08YDR2H6V: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08YDR2H6V&amazon_domain=amazon.com
+2026-03-27 05:24:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:36  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:36  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-27 05:24:37  ERROR     RainforestAPI HTTP error for B00004SPZV: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B00004SPZV&amazon_domain=amazon.com
+2026-03-27 05:24:37  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:37  WARNING   No Amazon price for B00004SPZV. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:37  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-03-27 05:24:38  ERROR     RainforestAPI HTTP error for B089WXGTC5: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B089WXGTC5&amazon_domain=amazon.com
+2026-03-27 05:24:38  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:38  WARNING   No Amazon price for B089WXGTC5. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:38  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-03-27 05:24:39  ERROR     RainforestAPI HTTP error for B07GJBBGHG: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07GJBBGHG&amazon_domain=amazon.com
+2026-03-27 05:24:39  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:39  WARNING   No Amazon price for B07GJBBGHG. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:39  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-03-27 05:24:40  ERROR     RainforestAPI HTTP error for B08CYKPB7W: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08CYKPB7W&amazon_domain=amazon.com
+2026-03-27 05:24:40  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:40  WARNING   No Amazon price for B08CYKPB7W. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:40  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-03-27 05:24:41  ERROR     RainforestAPI HTTP error for B07WQ25PXR: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07WQ25PXR&amazon_domain=amazon.com
+2026-03-27 05:24:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:41  WARNING   No Amazon price for B07WQ25PXR. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:41  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-03-27 05:24:41  ERROR     RainforestAPI HTTP error for B00TTD9BRC: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B00TTD9BRC&amazon_domain=amazon.com
+2026-03-27 05:24:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:41  WARNING   No Amazon price for B00TTD9BRC. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:41  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-03-27 05:24:42  ERROR     RainforestAPI HTTP error for B07FLGR2TH: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07FLGR2TH&amazon_domain=amazon.com
+2026-03-27 05:24:42  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:42  WARNING   No Amazon price for B07FLGR2TH. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:42  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-03-27 05:24:43  ERROR     RainforestAPI HTTP error for B09NWYPTLP: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09NWYPTLP&amazon_domain=amazon.com
+2026-03-27 05:24:43  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:43  WARNING   No Amazon price for B09NWYPTLP. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:43  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-03-27 05:24:44  ERROR     RainforestAPI HTTP error for B005F0QKHE: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B005F0QKHE&amazon_domain=amazon.com
+2026-03-27 05:24:44  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:44  WARNING   No Amazon price for B005F0QKHE. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:44  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-03-27 05:24:45  ERROR     RainforestAPI HTTP error for B08K2H2B7G: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08K2H2B7G&amazon_domain=amazon.com
+2026-03-27 05:24:45  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:45  WARNING   No Amazon price for B08K2H2B7G. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:45  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-03-27 05:24:46  ERROR     RainforestAPI HTTP error for B07K5299KZ: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07K5299KZ&amazon_domain=amazon.com
+2026-03-27 05:24:46  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:46  WARNING   No Amazon price for B07K5299KZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:46  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-03-27 05:24:51  ERROR     RainforestAPI HTTP error for B078H9KDX3: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B078H9KDX3&amazon_domain=amazon.com
+2026-03-27 05:24:51  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:51  WARNING   No Amazon price for B078H9KDX3. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:51  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-03-27 05:24:52  ERROR     RainforestAPI HTTP error for B07C5F9KHK: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07C5F9KHK&amazon_domain=amazon.com
+2026-03-27 05:24:52  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:52  WARNING   No Amazon price for B07C5F9KHK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:52  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-03-27 05:24:53  ERROR     RainforestAPI HTTP error for B07G5F5CHX: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07G5F5CHX&amazon_domain=amazon.com
+2026-03-27 05:24:53  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:53  WARNING   No Amazon price for B07G5F5CHX. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:53  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-03-27 05:24:54  ERROR     RainforestAPI HTTP error for B07MJG2MBZ: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07MJG2MBZ&amazon_domain=amazon.com
+2026-03-27 05:24:54  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:54  WARNING   No Amazon price for B07MJG2MBZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:54  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-03-27 05:24:55  ERROR     RainforestAPI HTTP error for B08DK3GG59: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08DK3GG59&amazon_domain=amazon.com
+2026-03-27 05:24:55  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-27 05:24:55  WARNING   No Amazon price for B08DK3GG59. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-27 05:24:55  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-27 05:24:55  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-27 05:27:33  INFO      
+Bot stopped by user.
+2026-03-31 02:23:23  INFO      ============================================================
+2026-03-31 02:23:23  INFO        Retail Arbitrage Bot starting up
+2026-03-31 02:23:23  INFO        Mode: PAPER TRADING (no alerts)
+2026-03-31 02:23:23  INFO        Scan interval: every 20 minutes
+2026-03-31 02:23:23  INFO      ============================================================
+2026-03-31 02:23:23  INFO      Running initial scan...
+2026-03-31 02:23:23  INFO      
+============================================================
+2026-03-31 02:23:23  INFO      Scan #1 started at 2026-03-31 02:23:23
+2026-03-31 02:23:23  INFO      Checking 24 products...
+2026-03-31 02:23:23  INFO      ============================================================
+2026-03-31 02:23:23  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-03-31 02:23:25  ERROR     RainforestAPI HTTP error for B09WB6YVRD: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09WB6YVRD&amazon_domain=amazon.com
+2026-03-31 02:23:25  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:25  WARNING   No Amazon price for B09WB6YVRD. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:25  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-03-31 02:23:26  ERROR     RainforestAPI HTTP error for B08C4KWM9T: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08C4KWM9T&amazon_domain=amazon.com
+2026-03-31 02:23:26  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:26  WARNING   No Amazon price for B08C4KWM9T. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:26  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-03-31 02:23:28  ERROR     RainforestAPI HTTP error for B07PXGQC1Q: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07PXGQC1Q&amazon_domain=amazon.com
+2026-03-31 02:23:28  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:28  WARNING   No Amazon price for B07PXGQC1Q. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:28  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-03-31 02:23:29  ERROR     RainforestAPI HTTP error for B09G9FPHY6: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09G9FPHY6&amazon_domain=amazon.com
+2026-03-31 02:23:29  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:29  WARNING   No Amazon price for B09G9FPHY6. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:29  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-03-31 02:23:30  ERROR     RainforestAPI HTTP error for B08BHXG144: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08BHXG144&amazon_domain=amazon.com
+2026-03-31 02:23:30  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:30  WARNING   No Amazon price for B08BHXG144. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:30  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-03-31 02:23:32  ERROR     RainforestAPI HTTP error for B07VGRJDFY: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07VGRJDFY&amazon_domain=amazon.com
+2026-03-31 02:23:32  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:32  WARNING   No Amazon price for B07VGRJDFY. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:32  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-03-31 02:23:33  ERROR     RainforestAPI HTTP error for B08KTZ8249: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08KTZ8249&amazon_domain=amazon.com
+2026-03-31 02:23:33  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:33  WARNING   No Amazon price for B08KTZ8249. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:33  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-03-31 02:23:35  ERROR     RainforestAPI HTTP error for B08YDR2H6V: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08YDR2H6V&amazon_domain=amazon.com
+2026-03-31 02:23:35  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:35  WARNING   No Amazon price for B08YDR2H6V. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:35  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-03-31 02:23:36  ERROR     RainforestAPI HTTP error for B00004SPZV: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B00004SPZV&amazon_domain=amazon.com
+2026-03-31 02:23:36  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:36  WARNING   No Amazon price for B00004SPZV. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:36  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-03-31 02:23:38  ERROR     RainforestAPI HTTP error for B089WXGTC5: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B089WXGTC5&amazon_domain=amazon.com
+2026-03-31 02:23:38  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:38  WARNING   No Amazon price for B089WXGTC5. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:38  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-03-31 02:23:40  ERROR     RainforestAPI HTTP error for B07GJBBGHG: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07GJBBGHG&amazon_domain=amazon.com
+2026-03-31 02:23:40  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:40  WARNING   No Amazon price for B07GJBBGHG. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:40  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-03-31 02:23:41  ERROR     RainforestAPI HTTP error for B08CYKPB7W: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08CYKPB7W&amazon_domain=amazon.com
+2026-03-31 02:23:41  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:41  WARNING   No Amazon price for B08CYKPB7W. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:41  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-03-31 02:23:42  ERROR     RainforestAPI HTTP error for B07WQ25PXR: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07WQ25PXR&amazon_domain=amazon.com
+2026-03-31 02:23:42  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:42  WARNING   No Amazon price for B07WQ25PXR. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:42  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-03-31 02:23:44  ERROR     RainforestAPI HTTP error for B00TTD9BRC: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B00TTD9BRC&amazon_domain=amazon.com
+2026-03-31 02:23:44  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:44  WARNING   No Amazon price for B00TTD9BRC. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:44  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-03-31 02:23:45  ERROR     RainforestAPI HTTP error for B07FLGR2TH: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07FLGR2TH&amazon_domain=amazon.com
+2026-03-31 02:23:45  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:45  WARNING   No Amazon price for B07FLGR2TH. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:45  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-03-31 02:23:47  ERROR     RainforestAPI HTTP error for B09NWYPTLP: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B09NWYPTLP&amazon_domain=amazon.com
+2026-03-31 02:23:47  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:47  WARNING   No Amazon price for B09NWYPTLP. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:47  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-03-31 02:23:48  ERROR     RainforestAPI HTTP error for B005F0QKHE: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B005F0QKHE&amazon_domain=amazon.com
+2026-03-31 02:23:48  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:48  WARNING   No Amazon price for B005F0QKHE. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:48  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-03-31 02:23:50  ERROR     RainforestAPI HTTP error for B08K2H2B7G: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08K2H2B7G&amazon_domain=amazon.com
+2026-03-31 02:23:50  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:50  WARNING   No Amazon price for B08K2H2B7G. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:50  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-03-31 02:23:51  ERROR     RainforestAPI HTTP error for B07K5299KZ: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07K5299KZ&amazon_domain=amazon.com
+2026-03-31 02:23:51  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:51  WARNING   No Amazon price for B07K5299KZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:51  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-03-31 02:23:52  ERROR     RainforestAPI HTTP error for B078H9KDX3: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B078H9KDX3&amazon_domain=amazon.com
+2026-03-31 02:23:52  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:52  WARNING   No Amazon price for B078H9KDX3. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:52  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-03-31 02:23:54  ERROR     RainforestAPI HTTP error for B07C5F9KHK: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07C5F9KHK&amazon_domain=amazon.com
+2026-03-31 02:23:54  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:54  WARNING   No Amazon price for B07C5F9KHK. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:54  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-03-31 02:23:55  ERROR     RainforestAPI HTTP error for B07G5F5CHX: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07G5F5CHX&amazon_domain=amazon.com
+2026-03-31 02:23:55  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:55  WARNING   No Amazon price for B07G5F5CHX. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:55  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-03-31 02:23:56  ERROR     RainforestAPI HTTP error for B07MJG2MBZ: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B07MJG2MBZ&amazon_domain=amazon.com
+2026-03-31 02:23:56  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:56  WARNING   No Amazon price for B07MJG2MBZ. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:56  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-03-31 02:23:58  ERROR     RainforestAPI HTTP error for B08DK3GG59: 402 Client Error: Payment Required for url: https://api.rainforestapi.com/request?api_key=DB34419854AA4BA0BCD3DD9901A6736D&type=product&asin=B08DK3GG59&amazon_domain=amazon.com
+2026-03-31 02:23:58  ERROR     Playwright not installed. Run: pip install playwright && playwright install chromium
+2026-03-31 02:23:58  WARNING   No Amazon price for B08DK3GG59. Set RAINFOREST_API_KEY or USE_PLAYWRIGHT_SCRAPER=true in .env
+2026-03-31 02:23:58  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-03-31 02:23:58  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-03-31 02:28:27  INFO      
+Bot stopped by user.
+2026-04-07 03:10:36  INFO      ============================================================
+2026-04-07 03:10:36  INFO        Retail Arbitrage Bot starting up
+2026-04-07 03:10:36  INFO        Mode: PAPER TRADING (no alerts)
+2026-04-07 03:10:36  INFO        Scan interval: every 20 minutes
+2026-04-07 03:10:36  INFO      ============================================================
+2026-04-07 03:10:36  INFO      Running initial scan...
+2026-04-07 03:10:36  INFO      
+============================================================
+2026-04-07 03:10:36  INFO      Scan #1 started at 2026-04-07 03:10:36
+2026-04-07 03:10:36  INFO      Checking 24 products...
+2026-04-07 03:10:36  INFO      ============================================================
+2026-04-07 03:10:36  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-07 03:10:38  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:10:42  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-07 03:10:43  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:10:48  INFO          Amazon price: $47.49
+2026-04-07 03:10:49  ERROR     eBay 500 error for 'Anker PowerCore Slim 10000 Portable Charger' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:10:54  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-07 03:10:55  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:01  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-07 03:11:02  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:08  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-07 03:11:09  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:16  INFO          Amazon price: $68.99
+2026-04-07 03:11:17  ERROR     eBay 500 error for 'Logitech MX Master 3 Advanced Wireless Mouse' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:11:22  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-07 03:11:24  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:33  WARNING       Amazon price $214.95 looks incorrect for POWRUI Surge Protector 8 Outlets (expected under $60) — skipping
+2026-04-07 03:11:33  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-07 03:11:35  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:41  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-07 03:11:42  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:47  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-07 03:11:48  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:11:54  INFO          Amazon price: $11.76
+2026-04-07 03:11:55  ERROR     eBay 500 error for 'Lodge 10.25 Inch Cast Iron Skillet' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:12:00  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-07 03:12:01  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:05  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-07 03:12:06  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:11  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-07 03:12:12  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:16  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-07 03:12:18  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:23  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-07 03:12:24  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:31  INFO          Amazon price: $23.71
+2026-04-07 03:12:32  ERROR     eBay 500 error for 'CeraVe Moisturising Cream 19oz' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:12:37  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-07 03:12:39  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:43  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-07 03:12:45  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:50  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-07 03:12:52  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:12:56  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-07 03:12:58  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:03  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-07 03:13:05  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:09  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-07 03:13:11  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:17  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-07 03:13:19  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:23  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-07 03:13:24  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:29  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-07 03:13:31  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:35  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-07 03:13:37  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:13:41  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-07 03:13:41  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-04-07 03:30:41  INFO      
+============================================================
+2026-04-07 03:30:41  INFO      Scan #2 started at 2026-04-07 03:30:41
+2026-04-07 03:30:41  INFO      Checking 24 products...
+2026-04-07 03:30:41  INFO      ============================================================
+2026-04-07 03:30:41  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-07 03:30:43  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:30:48  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-07 03:30:50  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:30:54  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-07 03:30:55  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:02  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-07 03:31:03  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:08  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-07 03:31:10  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:15  INFO          Amazon price: $68.99
+2026-04-07 03:31:17  ERROR     eBay 500 error for 'Logitech MX Master 3 Advanced Wireless Mouse' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:31:23  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-07 03:31:24  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:31  WARNING       Amazon price $214.95 looks incorrect for POWRUI Surge Protector 8 Outlets (expected under $60) — skipping
+2026-04-07 03:31:31  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-07 03:31:33  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:40  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-07 03:31:42  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:47  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-07 03:31:49  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:31:55  INFO          Amazon price: $11.76
+2026-04-07 03:31:57  ERROR     eBay 500 error for 'Lodge 10.25 Inch Cast Iron Skillet' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:32:03  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-07 03:32:04  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:10  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-07 03:32:14  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:19  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-07 03:32:20  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:25  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-07 03:32:27  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:31  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-07 03:32:33  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:41  INFO          Amazon price: $15.99
+2026-04-07 03:32:42  ERROR     eBay 500 error for 'CeraVe Moisturising Cream 19oz' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 03:32:49  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-07 03:32:52  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:32:56  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-07 03:32:58  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:05  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-07 03:33:06  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:10  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-07 03:33:12  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:17  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-07 03:33:19  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:23  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-07 03:33:25  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:30  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-07 03:33:32  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:36  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-07 03:33:37  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:43  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-07 03:33:45  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:50  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-07 03:33:52  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 03:33:56  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 2 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-07 04:58:02  INFO      
+============================================================
+2026-04-07 04:58:02  INFO      Scan #3 started at 2026-04-07 04:58:02
+2026-04-07 04:58:02  INFO      Checking 24 products...
+2026-04-07 04:58:02  INFO      ============================================================
+2026-04-07 04:58:02  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-07 04:58:04  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:58:09  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-07 04:58:10  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:58:17  INFO          Amazon price: $47.49
+2026-04-07 04:58:19  ERROR     eBay 500 error for 'Anker PowerCore Slim 10000 Portable Charger' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 04:58:24  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-07 04:58:26  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:58:32  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-07 04:58:33  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:58:40  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-07 04:58:42  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:58:49  INFO          Amazon price: $68.99
+2026-04-07 04:58:50  ERROR     eBay 500 error for 'Logitech MX Master 3 Advanced Wireless Mouse' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 04:58:56  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-07 04:59:01  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:09  WARNING       Amazon price $214.95 looks incorrect for POWRUI Surge Protector 8 Outlets (expected under $60) — skipping
+2026-04-07 04:59:09  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-07 04:59:11  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:18  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-07 04:59:20  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:25  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-07 04:59:27  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:32  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-07 04:59:34  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:40  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-07 04:59:42  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:47  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-07 04:59:48  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:52  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-07 04:59:53  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 04:59:57  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-07 04:59:59  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:06  INFO          Amazon price: $16.18
+2026-04-07 05:00:08  ERROR     eBay 500 error for 'CeraVe Moisturising Cream 19oz' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-07 05:00:13  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-07 05:00:15  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:19  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-07 05:00:21  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:25  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-07 05:00:27  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:32  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-07 05:00:34  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:38  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-07 05:00:40  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:46  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-07 05:00:47  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:51  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-07 05:00:53  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:00:58  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-07 05:01:01  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:01:06  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-07 05:01:08  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:01:12  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-07 05:01:14  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-07 05:01:19  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 3 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-09 01:21:54  INFO      ============================================================
+2026-04-09 01:21:54  INFO        Retail Arbitrage Bot starting up
+2026-04-09 01:21:54  INFO        Mode: PAPER TRADING (no alerts)
+2026-04-09 01:21:54  INFO        Scan interval: every 20 minutes
+2026-04-09 01:21:54  INFO      ============================================================
+2026-04-09 01:21:54  INFO      Running initial scan...
+2026-04-09 01:21:54  INFO      
+============================================================
+2026-04-09 01:21:54  INFO      Scan #1 started at 2026-04-09 01:21:54
+2026-04-09 01:21:54  INFO      Checking 24 products...
+2026-04-09 01:21:54  INFO      ============================================================
+2026-04-09 01:21:54  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-09 01:21:56  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:01  WARNING   Amazon CAPTCHA for B09WB6YVRD — will retry next scan
+2026-04-09 01:22:01  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-09 01:22:03  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:08  WARNING   Amazon CAPTCHA for B08C4KWM9T — will retry next scan
+2026-04-09 01:22:08  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-09 01:22:10  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:16  WARNING   Amazon CAPTCHA for B07PXGQC1Q — will retry next scan
+2026-04-09 01:22:16  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-09 01:22:18  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:23  WARNING   Amazon CAPTCHA for B09G9FPHY6 — will retry next scan
+2026-04-09 01:22:23  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-09 01:22:26  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:30  WARNING   Amazon CAPTCHA for B08BHXG144 — will retry next scan
+2026-04-09 01:22:30  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-09 01:22:31  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:37  WARNING   Amazon CAPTCHA for B07VGRJDFY — will retry next scan
+2026-04-09 01:22:37  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-09 01:22:38  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:43  WARNING   Amazon CAPTCHA for B08KTZ8249 — will retry next scan
+2026-04-09 01:22:43  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-09 01:22:45  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:49  WARNING   Amazon CAPTCHA for B08YDR2H6V — will retry next scan
+2026-04-09 01:22:49  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-09 01:22:51  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:22:55  WARNING   Amazon CAPTCHA for B00004SPZV — will retry next scan
+2026-04-09 01:22:55  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-09 01:22:57  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:04  WARNING   Amazon CAPTCHA for B089WXGTC5 — will retry next scan
+2026-04-09 01:23:04  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-09 01:23:06  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:11  WARNING   Amazon CAPTCHA for B07GJBBGHG — will retry next scan
+2026-04-09 01:23:11  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-09 01:23:15  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:19  WARNING   Amazon CAPTCHA for B08CYKPB7W — will retry next scan
+2026-04-09 01:23:19  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-09 01:23:21  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:27  WARNING   Amazon CAPTCHA for B07WQ25PXR — will retry next scan
+2026-04-09 01:23:27  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-09 01:23:29  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:35  WARNING   Amazon CAPTCHA for B00TTD9BRC — will retry next scan
+2026-04-09 01:23:35  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-09 01:23:38  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:42  WARNING   Amazon CAPTCHA for B07FLGR2TH — will retry next scan
+2026-04-09 01:23:42  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-09 01:23:44  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:50  WARNING   Amazon CAPTCHA for B09NWYPTLP — will retry next scan
+2026-04-09 01:23:50  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-09 01:23:52  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:23:57  WARNING   Amazon CAPTCHA for B005F0QKHE — will retry next scan
+2026-04-09 01:23:57  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-09 01:23:58  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:03  WARNING   Amazon CAPTCHA for B08K2H2B7G — will retry next scan
+2026-04-09 01:24:03  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-09 01:24:04  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:10  WARNING   Amazon CAPTCHA for B07K5299KZ — will retry next scan
+2026-04-09 01:24:10  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-09 01:24:12  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:17  WARNING   Amazon CAPTCHA for B078H9KDX3 — will retry next scan
+2026-04-09 01:24:17  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-09 01:24:19  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:24  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-09 01:24:26  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:30  WARNING   Amazon CAPTCHA for B07G5F5CHX — will retry next scan
+2026-04-09 01:24:30  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-09 01:24:32  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:37  WARNING   Amazon CAPTCHA for B07MJG2MBZ — will retry next scan
+2026-04-09 01:24:37  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-09 01:24:39  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:24:43  WARNING   Amazon CAPTCHA for B08DK3GG59 — will retry next scan
+2026-04-09 01:24:43  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-09 01:24:43  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-04-09 01:42:13  INFO      
+============================================================
+2026-04-09 01:42:13  INFO      Scan #2 started at 2026-04-09 01:42:13
+2026-04-09 01:42:13  INFO      Checking 24 products...
+2026-04-09 01:42:13  INFO      ============================================================
+2026-04-09 01:42:13  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-09 01:42:15  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:21  WARNING   Amazon CAPTCHA for B09WB6YVRD — will retry next scan
+2026-04-09 01:42:21  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-09 01:42:23  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:26  WARNING   Amazon CAPTCHA for B08C4KWM9T — will retry next scan
+2026-04-09 01:42:26  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-09 01:42:28  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:32  WARNING   Amazon CAPTCHA for B07PXGQC1Q — will retry next scan
+2026-04-09 01:42:32  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-09 01:42:34  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:39  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-09 01:42:40  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:45  WARNING   Amazon CAPTCHA for B08BHXG144 — will retry next scan
+2026-04-09 01:42:45  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-09 01:42:46  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:51  WARNING   Amazon CAPTCHA for B07VGRJDFY — will retry next scan
+2026-04-09 01:42:51  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-09 01:42:54  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:42:58  WARNING   Amazon CAPTCHA for B08KTZ8249 — will retry next scan
+2026-04-09 01:42:58  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-09 01:43:00  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:05  WARNING   Amazon CAPTCHA for B08YDR2H6V — will retry next scan
+2026-04-09 01:43:05  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-09 01:43:07  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:10  WARNING   Amazon CAPTCHA for B00004SPZV — will retry next scan
+2026-04-09 01:43:10  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-09 01:43:12  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:16  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-09 01:43:18  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:23  WARNING   Amazon CAPTCHA for B07GJBBGHG — will retry next scan
+2026-04-09 01:43:23  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-09 01:43:25  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:28  WARNING   Amazon CAPTCHA for B08CYKPB7W — will retry next scan
+2026-04-09 01:43:28  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-09 01:43:30  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:35  WARNING   Amazon CAPTCHA for B07WQ25PXR — will retry next scan
+2026-04-09 01:43:35  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-09 01:43:37  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:43  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-09 01:43:45  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:50  WARNING   Amazon CAPTCHA for B07FLGR2TH — will retry next scan
+2026-04-09 01:43:50  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-09 01:43:51  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:43:57  WARNING   Amazon CAPTCHA for B09NWYPTLP — will retry next scan
+2026-04-09 01:43:57  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-09 01:43:58  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:03  WARNING   Amazon CAPTCHA for B005F0QKHE — will retry next scan
+2026-04-09 01:44:03  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-09 01:44:04  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:09  WARNING   Amazon CAPTCHA for B08K2H2B7G — will retry next scan
+2026-04-09 01:44:09  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-09 01:44:11  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:16  WARNING   Amazon CAPTCHA for B07K5299KZ — will retry next scan
+2026-04-09 01:44:16  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-09 01:44:18  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:23  WARNING   Amazon CAPTCHA for B078H9KDX3 — will retry next scan
+2026-04-09 01:44:23  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-09 01:44:25  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:30  WARNING   Amazon CAPTCHA for B07C5F9KHK — will retry next scan
+2026-04-09 01:44:30  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-09 01:44:32  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:38  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-09 01:44:39  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:45  WARNING   Amazon CAPTCHA for B07MJG2MBZ — will retry next scan
+2026-04-09 01:44:45  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-09 01:44:47  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 01:44:51  WARNING   Amazon CAPTCHA for B08DK3GG59 — will retry next scan
+2026-04-09 01:44:51  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 2 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-09 02:04:28  INFO      
+Bot stopped by user.
+2026-04-09 02:04:31  INFO      ============================================================
+2026-04-09 02:04:31  INFO        Retail Arbitrage Bot starting up
+2026-04-09 02:04:31  INFO        Mode: PAPER TRADING (no alerts)
+2026-04-09 02:04:31  INFO        Scan interval: every 20 minutes
+2026-04-09 02:04:31  INFO      ============================================================
+2026-04-09 02:04:31  INFO      Running initial scan...
+2026-04-09 02:04:31  INFO      
+============================================================
+2026-04-09 02:04:31  INFO      Scan #1 started at 2026-04-09 02:04:31
+2026-04-09 02:04:31  INFO      Checking 24 products...
+2026-04-09 02:04:31  INFO      ============================================================
+2026-04-09 02:04:31  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-09 02:04:32  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:05:22  INFO      
+Bot stopped by user.
+2026-04-09 02:06:52  INFO      ============================================================
+2026-04-09 02:06:52  INFO        Retail Arbitrage Bot starting up
+2026-04-09 02:06:52  INFO        Mode: PAPER TRADING (no alerts)
+2026-04-09 02:06:52  INFO        Scan interval: every 20 minutes
+2026-04-09 02:06:52  INFO      ============================================================
+2026-04-09 02:06:52  INFO      Running initial scan...
+2026-04-09 02:06:52  INFO      
+============================================================
+2026-04-09 02:06:52  INFO      Scan #1 started at 2026-04-09 02:06:52
+2026-04-09 02:06:52  INFO      Checking 24 products...
+2026-04-09 02:06:52  INFO      ============================================================
+2026-04-09 02:06:52  INFO        Checking: Anker 735 Charger GaNPrime 65W (B09WB6YVRD)
+2026-04-09 02:06:54  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:07:09  WARNING   Amazon CAPTCHA for B09WB6YVRD — will retry next scan
+2026-04-09 02:07:09  INFO        Checking: Anker PowerCore Slim 10000 Portable Charger (B08C4KWM9T)
+2026-04-09 02:07:11  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:07:46  WARNING       Amazon price $139.99 looks incorrect for Anker PowerCore Slim 10000 Portable Charger (expected under $66) — skipping
+2026-04-09 02:07:46  INFO        Checking: Tile Mate Bluetooth Tracker 4-Pack (B07PXGQC1Q)
+2026-04-09 02:07:48  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:07:55  INFO        Checking: Govee LED Strip Lights 100ft (B09G9FPHY6)
+2026-04-09 02:07:57  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:08:07  WARNING       Amazon price $329.00 looks incorrect for Govee LED Strip Lights 100ft (expected under $66) — skipping
+2026-04-09 02:08:07  INFO        Checking: Logitech MX Master 3 Advanced Wireless Mouse (B08BHXG144)
+2026-04-09 02:08:09  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:08:33  WARNING       Amazon price $261.30 looks incorrect for Logitech MX Master 3 Advanced Wireless Mouse (expected under $225) — skipping
+2026-04-09 02:08:33  INFO        Checking: POWRUI Surge Protector 8 Outlets (B07VGRJDFY)
+2026-04-09 02:08:36  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:08:43  WARNING       Amazon price $299.99 looks incorrect for POWRUI Surge Protector 8 Outlets (expected under $60) — skipping
+2026-04-09 02:08:43  INFO        Checking: Soundcore by Anker Life P2 Mini Earbuds (B08KTZ8249)
+2026-04-09 02:08:45  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:08:51  INFO          Amazon price: $72.48
+2026-04-09 02:08:53  ERROR     eBay 500 error for 'Soundcore by Anker Life P2 Mini Earbuds' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-09 02:08:59  INFO        Checking: Stanley Quencher H2.0 FlowState Tumbler 40oz (B08YDR2H6V)
+2026-04-09 02:09:01  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:09:18  WARNING   Amazon CAPTCHA for B08YDR2H6V — will retry next scan
+2026-04-09 02:09:18  INFO        Checking: Lodge 10.25 Inch Cast Iron Skillet (B00004SPZV)
+2026-04-09 02:09:20  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:09:32  INFO        Checking: Ninja CF091 Coffee Maker with Thermal Carafe (B089WXGTC5)
+2026-04-09 02:09:34  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:09:51  WARNING   Amazon CAPTCHA for B089WXGTC5 — will retry next scan
+2026-04-09 02:09:51  INFO        Checking: Instant Pot Duo 7-in-1 Pressure Cooker 6qt (B07GJBBGHG)
+2026-04-09 02:09:53  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:10:25  WARNING   Amazon CAPTCHA for B07GJBBGHG — will retry next scan
+2026-04-09 02:10:25  INFO        Checking: Ninja Air Fryer Pro 4qt AF141 (B08CYKPB7W)
+2026-04-09 02:10:28  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:11:07  WARNING   Amazon CAPTCHA for B08CYKPB7W — will retry next scan
+2026-04-09 02:11:07  INFO        Checking: OXO Good Grips 3-Piece Mixing Bowl Set (B07WQ25PXR)
+2026-04-09 02:11:08  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:11:24  WARNING   Amazon CAPTCHA for B07WQ25PXR — will retry next scan
+2026-04-09 02:11:24  INFO        Checking: CeraVe Moisturising Cream 19oz (B00TTD9BRC)
+2026-04-09 02:11:25  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:11:48  INFO          Amazon price: $21.82
+2026-04-09 02:11:50  ERROR     eBay 500 error for 'CeraVe Moisturising Cream 19oz' — likely using Sandbox key. Use the Production (PRD) key from developer.ebay.com
+2026-04-09 02:11:56  INFO        Checking: Neutrogena Hydro Boost Water Gel 1.7oz (B07FLGR2TH)
+2026-04-09 02:11:58  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:12:32  WARNING   Amazon CAPTCHA for B07FLGR2TH — will retry next scan
+2026-04-09 02:12:32  INFO        Checking: The Ordinary Niacinamide 10 Percent Zinc 60ml (B09NWYPTLP)
+2026-04-09 02:12:34  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:12:51  INFO        Checking: Revlon One-Step Volumiser Hair Dryer Brush (B005F0QKHE)
+2026-04-09 02:12:53  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:13:11  WARNING   Amazon CAPTCHA for B005F0QKHE — will retry next scan
+2026-04-09 02:13:11  INFO        Checking: Maybelline Sky High Mascara (B08K2H2B7G)
+2026-04-09 02:13:12  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:13:30  WARNING   Amazon CAPTCHA for B08K2H2B7G — will retry next scan
+2026-04-09 02:13:30  INFO        Checking: Dove Body Wash Deep Moisture 22oz 4-Pack (B07K5299KZ)
+2026-04-09 02:13:32  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:13:46  INFO        Checking: Gaiam Essentials Thick Yoga Mat 2/5 Inch (B078H9KDX3)
+2026-04-09 02:13:47  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:14:01  WARNING   Amazon CAPTCHA for B078H9KDX3 — will retry next scan
+2026-04-09 02:14:01  INFO        Checking: Fit Simplify Resistance Bands Set of 5 (B07C5F9KHK)
+2026-04-09 02:14:03  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:14:27  WARNING   Amazon CAPTCHA for B07C5F9KHK — will retry next scan
+2026-04-09 02:14:27  INFO        Checking: Hydro Flask Standard Mouth 21oz Water Bottle (B07G5F5CHX)
+2026-04-09 02:14:29  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:14:51  WARNING   Amazon CAPTCHA for B07G5F5CHX — will retry next scan
+2026-04-09 02:14:51  INFO        Checking: Hidrate Spark 3 Smart Water Bottle 21oz (B07MJG2MBZ)
+2026-04-09 02:14:53  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:15:06  WARNING   Amazon CAPTCHA for B07MJG2MBZ — will retry next scan
+2026-04-09 02:15:06  INFO        Checking: Sunny Health Fitness Rowing Machine SF-RW5515 (B08DK3GG59)
+2026-04-09 02:15:08  WARNING   RainforestAPI: free quota exhausted — using scraper instead.
+2026-04-09 02:15:26  WARNING   Amazon CAPTCHA for B08DK3GG59 — will retry next scan
+2026-04-09 02:15:26  INFO      
+Scan complete. 0 deal(s) found this cycle.
+Lifetime totals — Scans: 1 | Deals: 0 | Best ROI: 0.0%
+
+2026-04-09 02:15:26  INFO      Scheduler active — next scan in 20 minutes. Press Ctrl+C to stop.
+2026-04-09 02:16:15  INFO      
+Bot stopped by user.
